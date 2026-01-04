@@ -1,2 +1,2 @@
-# calculatrice
+# calculatrice-simple-python
 travail python 
